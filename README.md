@@ -4,14 +4,7 @@
 ***tag_data***是有标签数据。  
 
 该语料库出自论文：
-@inproceedings{su2019resume,
-  title={The Resume Corpus: A Large Dataset for Research in Information Extraction Systems},
-  author={Su, Yanyuan and Zhang, Jian and Lu, Jianhao},
-  booktitle={2019 15th International Conference on Computational Intelligence and Security (CIS)},
-  pages={375--378},
-  year={2019},
-  organization={IEEE}
-}
+Su, Yanyuan, Jian Zhang, and Jianhao Lu. "The Resume Corpus: A Large Dataset for Research in Information Extraction Systems." 2019 15th International Conference on Computational Intelligence and Security (CIS). IEEE, 2019.
 
 # Chinese Resume Corpus
 This is a dataset for research in information extraction systems.  
@@ -19,11 +12,4 @@ This is a dataset for research in information extraction systems.
 ***tag_data*** is labeled data.  
 
 Please cite:
-@inproceedings{su2019resume,
-  title={The Resume Corpus: A Large Dataset for Research in Information Extraction Systems},
-  author={Su, Yanyuan and Zhang, Jian and Lu, Jianhao},
-  booktitle={2019 15th International Conference on Computational Intelligence and Security (CIS)},
-  pages={375--378},
-  year={2019},
-  organization={IEEE}
-}
+Su, Yanyuan, Jian Zhang, and Jianhao Lu. "The Resume Corpus: A Large Dataset for Research in Information Extraction Systems." 2019 15th International Conference on Computational Intelligence and Security (CIS). IEEE, 2019.
